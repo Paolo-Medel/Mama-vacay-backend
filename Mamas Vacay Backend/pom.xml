@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.medel</groupId>
-	<artifactId>demo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>mamaVacay</artifactId>
+	<version>0.0.1</version>
 	<name>Mamas Vacay</name>
 	<description>Itinerary app for mother</description>
 	<developers>
